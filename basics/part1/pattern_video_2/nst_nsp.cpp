@@ -1,5 +1,11 @@
 //nst and nsp
+/*
+   *
+  ***
+ *****
+*******
 
+*/
 #include<iostream>
 using namespace std;
 
